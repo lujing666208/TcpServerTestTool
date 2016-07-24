@@ -1,0 +1,6 @@
+framework module Pods_TCPServerTest {
+  umbrella header "Pods-TCPServerTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
